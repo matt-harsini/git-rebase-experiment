@@ -1,5 +1,3 @@
-Adding info from the 'my-new-branch'
+Experimenting with git rebasing
 
-Adding info from the 'feature' branch
-
-Rebasing is fun hahah
+Updating README
