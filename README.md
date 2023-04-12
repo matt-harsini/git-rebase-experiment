@@ -1,3 +1,1 @@
-Experimenting with git rebasing
-
-Updating README
+Learning git rebase
